@@ -1,4 +1,7 @@
-jihyelee
+<<<<<<< HEAD
+joy
+-
+-
 -
 suyeon
 -
@@ -7,8 +10,21 @@ suyeon
 -
 -
 -
+=======
+jihyelee
 -
+nahyun
 -
+yeoeun
+egoing
+what?
+-
+hyunjung
+-
+
+-
+ooooooo
+>>>>>>> 2792c5e6454dee1c0e94c1b4992ae995d1c50357
 -
 -
 -
